@@ -46,6 +46,17 @@ This Django application allows users to shorten URLs and redirect to the origina
 
 4. Use the shortened URL to redirect to the original long URL.
 
+## Screenshots
+
+Screenshot of the index page where users can submit a long URL to be shortened.
+![image](https://github.com/Apuri-Amarnath/url-shortener/assets/110279434/f69d405b-7110-4689-a6ab-ed689dd17570)
+![image](https://github.com/Apuri-Amarnath/url-shortener/assets/110279434/1186247c-3994-4bd6-9a78-88613440b205)
+
+Screenshot of a redirect from a short URL to the original long URL.
+![image](https://github.com/Apuri-Amarnath/url-shortener/assets/110279434/d115d774-f1a9-41b7-8f4d-59a7e73092a4)
+![image](https://github.com/Apuri-Amarnath/url-shortener/assets/110279434/ad03504d-8a46-4fb2-82d5-dfc33ce1688c)
+
+
 ## Dependencies
 
 - Django
